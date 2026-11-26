@@ -1,0 +1,12 @@
+api_key.txt
+.env
+.env.*
+*.pem
+*.p12
+*.key
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+Analiz_Gecmisi/
+.DS_Store
